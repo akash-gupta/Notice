@@ -1,0 +1,14 @@
+Type 'latestnotice.py' to execute the script
+
+To get Today's/All notices uncomment the corresponding lines in the function calls at the end of the script
+
+Enjoy!!
+
+
+Things to do
+=============
+
+-- reduce the code length
+-- add switches for the 3 operations (latest/today/all)
+-- span across all the pages ofnotice board
+
